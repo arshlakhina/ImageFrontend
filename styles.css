@@ -1,0 +1,31 @@
+.heading-text{
+    text-align: center;
+    /* display:flex;    */
+    background-image: url("./opaqueimage.png");
+    background-repeat: no-repeat;   
+    background-size: cover;
+    background-position: center;
+    height:100vh;
+}
+
+.question{
+    margin-top:18%;
+    width:50%;
+    height:70px;
+    font-size:22px;
+    border-radius: 20px;
+}
+
+.btn{
+    margin-top:2%;   
+}
+
+/* .dynamic-images{
+    display:flex;
+} */
+
+.img-with-buttons{
+    width:10%;
+    text-align: center;
+    display:flex;
+}
